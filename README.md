@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, I'm Srikar Tenneti</h1>
+<h1 align="center">Hello👋, I'm Srikar Tenneti</h1>
 <h3 align="center">An Undergrad at the Lendi Institute of Engineering and Technology. I’m studying Computer science, and I love it! I love learning how computers work, and how they interact with the human world. I am excited to learn more about this field and continue contributing to the world around me through technology. I’ve always been passionate about learning new things, whether playing a game or watching a movie—I can’t get enough of it! My most extensive interests include programming, UI designing, and content writing—no matter what I’m doing at school or working on in my free time, you’ll always find me surrounded by electronic gadgets.</h3>
 
 
